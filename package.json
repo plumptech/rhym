@@ -1,6 +1,6 @@
 {
   "name": "rhym",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A retail desktop application.",
   "main": "electron.js",
   "repository": {
